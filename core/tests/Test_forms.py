@@ -28,4 +28,4 @@ class ContatoFormTestCase(TestCase):
         form2.is_valid()
         res2 = form2.send_email()
 
-        self.assertEquals(res1, res2)
+        self.assertEqual(res1, res2)
