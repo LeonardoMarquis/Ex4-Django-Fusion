@@ -1,14 +1,16 @@
 {% load static %}
+{% load i18n %}
+    <!-- Header Area wrapper End -->
 <div id="hero-area" class="hero-area-bg">
         <div class="container">      
           <div class="row">
             <div class="col-lg-7 col-md-12 col-sm-12 col-xs-12">
               <div class="contents">
-                <h2 class="head-title">App, Business & SaaS<br>Landing Page Template</h2>
-                <p>Você irá mais longe!</p>
+                <h2 class="head-title">{% trans 'App, Business & SaaS<br>Landing Page Template' %}</h2>
+                <p>{% trans 'Você irá mais longe!' %}</p>
                 <div class="header-button">
-                  <a href="#" class="btn btn-common">Download Now</i></a>
-                  <a href="#" class="btn btn-border video-popup">Learn More</i></a>
+                  <a href="#" class="btn btn-common">{% trans 'Download Now' %}</a>
+                  <a href="#" class="btn btn-border video-popup">{% trans 'Learn More' %}</a>
                 </div>
               </div>
             </div>

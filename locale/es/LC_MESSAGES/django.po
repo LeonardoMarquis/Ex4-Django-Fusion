@@ -1,0 +1,437 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-17 20:50-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? "
+"1 : 2;\n"
+
+#: .\core\forms.py:7 .\core\forms.py:18
+msgid "Nome"
+msgstr "Nombre"
+
+#: .\core\forms.py:8 .\core\forms.py:19
+msgid "E-mail"
+msgstr "Correo electrónico"
+
+#: .\core\forms.py:9 .\core\forms.py:20
+msgid "Assunto"
+msgstr "Asunto"
+
+#: .\core\forms.py:10 .\core\forms.py:21
+msgid "Mensagem"
+msgstr "Mensaje"
+
+#: .\core\models.py:17
+msgid "Created at"
+msgstr "Creado en"
+
+#: .\core\models.py:18
+msgid "Modified at"
+msgstr "Modificado en"
+
+#: .\core\models.py:19
+msgid "Active?"
+msgstr "¿Activo?"
+
+#: .\core\models.py:28
+msgid "Engine"
+msgstr "Motor"
+
+#: .\core\models.py:29
+msgid "Graphic"
+msgstr "Gráfico"
+
+#: .\core\models.py:30
+msgid "Users"
+msgstr "Usuarios"
+
+#: .\core\models.py:31
+msgid "Layers"
+msgstr "Capas"
+
+#: .\core\models.py:32
+msgid "Mobile"
+msgstr "Móvil"
+
+#: .\core\models.py:33
+msgid "Rocket"
+msgstr "Cohete"
+
+#: .\core\models.py:36 .\core\models.py:41
+msgid "Service"
+msgstr "Servicio"
+
+#: .\core\models.py:37
+msgid "Description"
+msgstr "Descripción"
+
+#: .\core\models.py:38
+msgid "Icon"
+msgstr "Icono"
+
+#: .\core\models.py:42 .\core\templates\base.html:49
+msgid "Services"
+msgstr "Servicios"
+
+#: .\core\models.py:49 .\core\models.py:52 .\core\models.py:60
+msgid "Position"
+msgstr "Posición"
+
+#: .\core\models.py:53
+msgid "Positions"
+msgstr "Posiciones"
+
+#: .\core\models.py:59
+msgid "Name"
+msgstr "Nombre"
+
+#: .\core\models.py:61
+msgid "Bio"
+msgstr "Biografía"
+
+#: .\core\models.py:62
+msgid "Image"
+msgstr "Imagen"
+
+#: .\core\models.py:75
+msgid "employee"
+msgstr "empleado"
+
+#: .\core\models.py:76
+msgid "employees"
+msgstr "empleados"
+
+#: .\core\templates\about.html:10
+msgid "Manage Statistics"
+msgstr "Gestionar Estadísticas"
+
+#: .\core\templates\about.html:11
+msgid "Detailed Statistics of your Company"
+msgstr "Estadísticas Detalladas de su Empresa"
+
+#: .\core\templates\about.html:15
+msgid ""
+"Praesent imperdiet, tellus et euismod euismod, risus lorem euismod erat, at "
+"finibus neque odio quis metus. Donec vulputate arcu quam. Morbi quis "
+"tincidunt ligula. Sed rutrum tincidunt pretium. Mauris auctor, purus a "
+"pulvinar fermentum, odio dui vehicula lorem, nec pharetra justo risus quis "
+"mi. Ut ac ex sagittis, viverra nisl vel, rhoncus odio."
+msgstr ""
+"Praesent imperdiet, tellus et euismod euismod, risus lorem euismod erat, at "
+"finibus neque odio quis metus. Donec vulputate arcu quam. Morbi quis "
+"tincidunt ligula. Sed rutrum tincidunt pretium. Mauris auctor, purus a "
+"pulvinar fermentum, odio dui vehicula lorem, nec pharetra justo risus quis "
+"mi. Ut ac ex sagittis, viverra nisl vel, rhoncus odio."
+
+#: .\core\templates\about.html:17
+msgid "Read More"
+msgstr "Leer más"
+
+#: .\core\templates\base.html:44
+msgid "Home"
+msgstr "Inicio"
+
+#: .\core\templates\base.html:54
+msgid "Team"
+msgstr "Equipo"
+
+#: .\core\templates\base.html:59 .\core\templates\pricing.html:6
+msgid "Pricing"
+msgstr "Precios"
+
+#: .\core\templates\base.html:64
+msgid "Testimonial"
+msgstr "Testimonios"
+
+#: .\core\templates\base.html:69 .\core\templates\footer.html:43
+msgid "Contact"
+msgstr "Contacto"
+
+#: .\core\templates\call_to_action.html:8
+msgid "Get 30 days free trial"
+msgstr "Obtén 30 días de prueba gratuita"
+
+#: .\core\templates\call_to_action.html:9
+msgid ""
+"Praesent imperdiet, tellus et euismod euismod, risus lorem euismod erat, at "
+"finibus neque odio quis metus. Donec vulputate arcu quam. "
+msgstr ""
+"Praesent imperdiet, tellus et euismod euismod, risus lorem euismod erat, at "
+"finibus neque odio quis metus. Donec vulputate arcu quam. "
+
+#: .\core\templates\call_to_action.html:13
+msgid "Register Now"
+msgstr "Regístrate ahora"
+
+#: .\core\templates\contact.html:6
+msgid "Contact Us"
+msgstr "Contáctanos"
+
+#: .\core\templates\contact.html:17
+msgid "Please enter your name"
+msgstr "Por favor, introduce tu nombre"
+
+#: .\core\templates\contact.html:23
+msgid "Please enter your email"
+msgstr "Por favor, introduce tu correo electrónico"
+
+#: .\core\templates\contact.html:29
+msgid "Please enter your subject"
+msgstr "Por favor, introduce el asunto"
+
+#: .\core\templates\contact.html:35
+msgid "Write your message"
+msgstr "Escribe tu mensaje"
+
+#: .\core\templates\contact.html:39
+msgid "Send Message"
+msgstr "Enviar Mensaje"
+
+#: .\core\templates\features.html:6
+msgid "Awesome Features"
+msgstr "Características Increíbles"
+
+#: .\core\templates\features.html:17
+msgid "Bootstrap 4 Based"
+msgstr "Basado en Bootstrap 4"
+
+#: .\core\templates\features.html:18 .\core\templates\features.html:27
+#: .\core\templates\features.html:36 .\core\templates\features.html:54
+#: .\core\templates\features.html:63 .\core\templates\features.html:72
+msgid ""
+"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+msgstr ""
+"Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto."
+
+#: .\core\templates\features.html:26
+msgid "Fully Responsive"
+msgstr "Totalmente Adaptable"
+
+#: .\core\templates\features.html:35
+msgid "HTML5, CSS3 & SASS"
+msgstr "HTML5, CSS3 y SASS"
+
+#: .\core\templates\features.html:53
+msgid "Modern Design"
+msgstr "Diseño Moderno"
+
+#: .\core\templates\features.html:62
+msgid "Multi-purpose Template"
+msgstr "Plantilla Multiusos"
+
+#: .\core\templates\features.html:71
+msgid "Working Contact Form"
+msgstr "Formulario de Contacto Funcional"
+
+#: .\core\templates\footer.html:12
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque lobortis "
+"tincidunt est, et euismod purus suscipit quis."
+msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque lobortis "
+"tincidunt est, et euismod purus suscipit quis."
+
+#: .\core\templates\footer.html:23
+msgid "Products"
+msgstr "Productos"
+
+#: .\core\templates\footer.html:25
+msgid "Tracking"
+msgstr "Seguimiento"
+
+#: .\core\templates\footer.html:26
+msgid "Application"
+msgstr "Aplicación"
+
+#: .\core\templates\footer.html:27
+msgid "Resource Planning"
+msgstr "Planificación de Recursos"
+
+#: .\core\templates\footer.html:28
+msgid "Enterprise"
+msgstr "Empresa"
+
+#: .\core\templates\footer.html:29
+msgid "Employee Management"
+msgstr "Gestión de Empleados"
+
+#: .\core\templates\footer.html:33
+msgid "Resources"
+msgstr "Recursos"
+
+#: .\core\templates\footer.html:35
+msgid "Payment Options"
+msgstr "Opciones de Pago"
+
+#: .\core\templates\footer.html:36
+msgid "Fee Schedule"
+msgstr "Calendario de Tarifas"
+
+#: .\core\templates\footer.html:37
+msgid "Getting Started"
+msgstr "Primeros Pasos"
+
+#: .\core\templates\footer.html:38
+msgid "Identity Verification"
+msgstr "Verificación de Identidad"
+
+#: .\core\templates\footer.html:39
+msgid "Card Verification"
+msgstr "Verificación de Tarjeta"
+
+#: .\core\templates\footer.html:46
+msgid "105 Madison Avenue - <br> Third Floor New York, NY 10016"
+msgstr "105 Madison Avenue - <br> Tercer Piso Nueva York, NY 10016"
+
+#: .\core\templates\footer.html:49
+msgid "P: +84 846 250 592"
+msgstr "T: +84 846 250 592"
+
+#: .\core\templates\footer.html:52
+msgid "E: contact@uideck.com"
+msgstr "E: contact@uideck.com"
+
+#: .\core\templates\footer.html:64
+msgid ""
+"Copyright © 2020 <a rel=\"nofollow\" href=\"https://uideck.com\">UIdeck</a> "
+"All Right Reserved"
+msgstr ""
+"Copyright © 2020 <a rel=\"nofollow\" href=\"https://uideck.com\">UIdeck</a> "
+"Todos los derechos reservados"
+
+#: .\core\templates\hero.html:9
+msgid "App, Business & SaaS<br>Landing Page Template"
+msgstr "Plantilla de Landing Page para<br>Apps, Negocios y SaaS"
+
+#: .\core\templates\hero.html:10
+msgid "Você irá mais longe!"
+msgstr "¡Llegarás más lejos!"
+
+#: .\core\templates\hero.html:12
+msgid "Download Now"
+msgstr "Descargar ahora"
+
+#: .\core\templates\hero.html:13
+msgid "Learn More"
+msgstr "Más información"
+
+#: .\core\templates\pricing.html:22
+msgid "1 user"
+msgstr "1 usuario"
+
+#: .\core\templates\pricing.html:23
+msgid "10 GB storage"
+msgstr "10 GB de almacenamiento"
+
+#: .\core\templates\pricing.html:24
+msgid "Email support"
+msgstr "Soporte por correo"
+
+#: .\core\templates\pricing.html:25 .\core\templates\pricing.html:45
+#: .\core\templates\pricing.html:65
+msgid "Lifetime updates"
+msgstr "Actualizaciones de por vida"
+
+#: .\core\templates\pricing.html:27 .\core\templates\pricing.html:47
+#: .\core\templates\pricing.html:67
+msgid "Buy Now"
+msgstr "Comprar ahora"
+
+#: .\core\templates\pricing.html:42
+msgid "10 user"
+msgstr "10 usuarios"
+
+#: .\core\templates\pricing.html:43
+msgid "30 GB storage"
+msgstr "30 GB de almacenamiento"
+
+#: .\core\templates\pricing.html:44
+msgid "Priority email support"
+msgstr "Soporte prioritario por correo"
+
+#: .\core\templates\pricing.html:59
+msgid "Premium"
+msgstr "Premium"
+
+#: .\core\templates\pricing.html:62
+msgid "Unlimited users"
+msgstr "Usuarios ilimitados"
+
+#: .\core\templates\pricing.html:63
+msgid "Unlimited storage"
+msgstr "Almacenamiento ilimitado"
+
+#: .\core\templates\pricing.html:64
+msgid "24/7 support"
+msgstr "Soporte 24/7"
+
+#: .\core\templates\services.html:6
+msgid "Our Services"
+msgstr "Nuestros Servicios"
+
+#: .\core\templates\team.html:6
+msgid "Meet our team"
+msgstr "Conoce a nuestro equipo"
+
+#: .\core\templates\testimonial.html:14
+msgid "David Smith"
+msgstr "David Smith"
+
+#: .\core\templates\testimonial.html:15
+msgid "Creative Head"
+msgstr "Director Creativo"
+
+#: .\core\templates\testimonial.html:18 .\core\templates\testimonial.html:39
+#: .\core\templates\testimonial.html:60 .\core\templates\testimonial.html:81
+msgid ""
+"Praesent cursus nulla non arcu tempor, ut egestas elit tempus. In ac ex "
+"fermentum, gravida felis nec, tincidunt ligula."
+msgstr ""
+"Praesent cursus nulla non arcu tempor, ut egestas elit tempus. In ac ex "
+"fermentum, gravida felis nec, tincidunt ligula."
+
+#: .\core\templates\testimonial.html:35
+msgid "Domeni GEsson"
+msgstr "Domeni GEsson"
+
+#: .\core\templates\testimonial.html:36
+msgid "Awesome Technology co."
+msgstr "Awesome Technology co."
+
+#: .\core\templates\testimonial.html:56
+msgid "Dommini Albert"
+msgstr "Dommini Albert"
+
+#: .\core\templates\testimonial.html:57
+msgid "Nesnal Design co."
+msgstr "Nesnal Design co."
+
+#: .\core\templates\testimonial.html:77
+msgid "Fernanda Anaya"
+msgstr "Fernanda Anaya"
+
+#: .\core\templates\testimonial.html:78
+msgid "Developer"
+msgstr "Desarrollador"
+
+#: .\core\views.py:41
+msgid "Message sent successfully!"
+msgstr "¡Mensaje enviado con éxito!"
+
+#: .\core\views.py:48
+msgid "Error sending message. Please try again."
+msgstr "Error al enviar el mensaje. Por favor, inténtelo de nuevo."

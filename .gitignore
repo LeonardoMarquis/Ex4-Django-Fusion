@@ -1,6 +1,7 @@
 # Created by venv; see https://docs.python.org/3/library/venv.html
 venv/
 env/
+ENV/
 media/
 template/
 
@@ -9,7 +10,7 @@ staticfiles/
 secret.json
 *.ini
 
-__pycache__/
+
 *.pyc
 *.sqlite3
 *.log
@@ -18,3 +19,11 @@ __pycache__/
 
 htmlcov/
 .coverage
+
+
+# Byte-compiled
+__pycache__/
+*.py[cod]
+
+# Translations
+locale/*/LC_MESSAGES/*.mo
